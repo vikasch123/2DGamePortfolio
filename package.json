@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "terser": "^5.37.0"
-  }
-}
-=======
   "name": "2d-portfolio-kaboom",
   "private": true,
   "version": "0.0.0",
@@ -22,4 +16,3 @@
     "kaboom": "^3000.1.17"
   }
 }
->>>>>>> 521ba7a (fixed issues)
